@@ -1,0 +1,22 @@
+.bold {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.standard {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+.body {
+  padding-left: 50px;
+}
